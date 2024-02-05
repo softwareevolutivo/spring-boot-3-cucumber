@@ -1,0 +1,4 @@
+com/sevolutivo/demo/cucumber/CucumberTest.class
+com/sevolutivo/demo/cucumber/stepDefs/DemoSteps.class
+com/sevolutivo/demo/SpringBootCucumberApplicationTests.class
+com/sevolutivo/demo/cucumber/CucumberSpringConfiguration.class
